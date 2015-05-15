@@ -100,3 +100,5 @@ INSTALL (
         include/snap7
 )
 
+ADD_SUBDIRECTORY ( examples )
+
